@@ -1,0 +1,252 @@
+body {
+    padding: 0;
+    margin: 0;
+    color: #000000a6;
+    /* padding-right: 330px; */
+}
+
+header {
+    background-color: #7F56F5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo {}
+
+.logo img {}
+
+nav {}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    margin: 0 0 0 40px;
+    font-weight: 600;
+}
+
+
+/* banner section */
+
+section {}
+
+.banner {
+    color: white;
+    /* color: wheat; */
+    padding: 70px 0;
+    text-align: center;
+    background-color: #7F56F5;
+    font-color: white;
+    padding: 1oopx 0;
+    margin: 0;
+}
+
+.banner h1 {
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+}
+
+.banner p {
+    margin: 0;
+    font-size: 20px;
+    padding: 0;
+}
+
+
+/* service section 1  */
+
+.services {
+    display: flex;
+}
+
+.services-item {
+    margin: 100px;
+    /* display: flex; */
+}
+
+.services-item h2 {
+    font-size: 40px;
+}
+
+.services-item p {
+    font-size: 20px;
+}
+
+.services-item img {}
+
+
+/* service section 2  */
+
+.services {
+    display: flex;
+}
+
+.services-item {
+    margin: 100px;
+    /* display: flex; */
+}
+
+.services-item h2 {
+    font-size: 40px;
+}
+
+.services-item p {
+    font-size: 20px;
+}
+
+.services-item img {}
+
+/* service section 3  */
+
+.services {
+    display: flex;
+}
+
+.services-item {
+    margin: 100px;
+    /* display: flex; */
+}
+
+.services-item h2 {
+    font-size: 40px;
+}
+
+.services-item p {
+    font-size: 20px;
+}
+
+.services-item img {}
+
+/* service section 4  */
+
+.services {
+    display: flex;
+}
+
+.services-item {
+    margin: 100px;
+    /* display: flex; */
+}
+
+.services-item h2 {
+    font-size: 40px;
+}
+
+.services-item p {
+    font-size: 20px;
+}
+
+.services-item img {}
+
+.services-item button {
+    background: #7F56F5;
+    border: 0;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+/* service section 5  */
+
+.services {
+    display: flex;
+}
+
+.services-item {
+    margin: 100px;
+    /* display: flex; */
+}
+
+.services-item h2 {
+    font-size: 40px;
+}
+
+.services-item p {
+    font-size: 20px;
+}
+
+.services-item img {}
+
+
+/* Final section */
+
+/* .background {
+
+    background-image: url(./footer_bg.png);
+    background-repeat: no-repeat;
+    background-attachment: cover;
+    background-position: center;
+} */
+
+.footer {
+
+    margin: 100px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+}
+
+.footer-item {
+    width: 20%;
+}
+
+.img {}
+
+.img p {
+    font-size: 14px;
+
+}
+
+.text {
+    display: flex;
+    gap: 25%;
+}
+
+.about {}
+
+.about h1 {
+    font-size: 20px;
+}
+
+.about h4 {
+    font-size: 12px;
+}
+
+
+.work {}
+
+.work h1 {
+    font-size: 20px;
+}
+
+.work h4 {
+    font-size: 12px;
+}
+
+.team {}
+
+.team h1 {
+    font-size: 20px;
+}
+
+.team h4 {
+    font-size: 12px;
+}
